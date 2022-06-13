@@ -1,0 +1,2 @@
+tensorflow-macos~=2.9.2
+numpy~=1.22.4
